@@ -1,24 +1,24 @@
-# 🤖 AI Telegram Assistant
+# AI Telegram Sales Assistant
 
-A professional AI-powered Telegram bot built with **Python**, **python-telegram-bot**, and **OpenRouter API**. This bot demonstrates how to integrate Large Language Models (LLMs) into real-time communication platforms with a focus on security and efficiency.
+An AI-powered Telegram assistant built with Python and OpenRouter API.
 
-## 🚀 Key Features
-* **Intelligent Conversations:** Powered by advanced AI models via OpenRouter (supporting GPT, Gemini, Llama).
-* **Secure Credential Management:** Uses `.env` environment variables to protect sensitive API keys.
-* **Asynchronous Message Handling:** Built on the latest `python-telegram-bot` framework for high-speed performance.
-* **Scalable Architecture:** Clean code structure allowing easy integration of new features.
+## Features
 
-## 🛠 Tech Stack
-* **Language:** Python 3.11+
-* **Libraries:** `python-telegram-bot`, `openai`, `python-dotenv`
-* **API Provider:** OpenRouter
+- AI-generated replies
+- Telegram integration
+- Lightweight deployment
+- OpenRouter LLM support
+- Ready for cloud deployment
 
-## 📦 Installation & Setup
-1. Clone the repository.
-2. Install dependencies: `pip install -r requirements.txt`.
-3. Create a `.env` file and add your `TELEGRAM_TOKEN` and `OPENROUTER_API_KEY`.
-4. Run the bot: `python app.py`.
+## Tech Stack
 
----
-*Created by Asadbek Abdumannobov *# AI-Telegram-Assistant
-An intelligent Telegram bot integrated with Large Language Models (LLMs) via OpenRouter. Features secure environment handling and real-time AI interactions.
+- Python
+- Telegram Bot API
+- OpenRouter API
+- VS Code
+
+## Run Locally
+
+```bash
+pip install -r requirements.txt
+python app.py
